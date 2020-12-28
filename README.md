@@ -6,14 +6,14 @@
 <!--
 Here are some ideas to get you started: --!>
 
-- 🔭 I’m currently working on bots for social medias
+- 🔭 I’m currently working on bots for social medias<br/>
 
-- 🌱 I’m currently learning to know Python🐍 better
+- 🌱 I’m currently learning to know Python🐍 better<br/>
 
-- 💬 Ask me about game servers
+- 💬 Ask me about game servers<br/>
 
-- 📫 How to reach me: deiryn@protonmail.com (I read it from time to time)
+- 📫 How to reach me: deiryn@protonmail.com (I read it from time to time)<br/>
 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her<br/>
 
 - ⚡ Fun fact: **According to a recent survey, in the UK in 2015, Python overtook French to be the most popular language taught in primary schools. Out of 10, 6 parents preferred their children to learn Python over French.**
