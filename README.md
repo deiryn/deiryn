@@ -6,11 +6,11 @@
 <!--
 Here are some ideas to get you started: --!>
 
-- 🔭 I’m currently working on bots for social medias<br/>
+- 🔭 I’m currently working on translations, bots and my private projects<br/>
 
 - 🌱 I’m currently learning to know Python🐍 better<br/>
 
-- 💬 Ask me about game servers<br/>
+- 💬 Ask me about game servers or making translation for your project/software<br/>
 
 - 📫 How to reach me: deiryn@protonmail.com (I read it from time to time)<br/>
 
