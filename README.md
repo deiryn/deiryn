@@ -8,8 +8,8 @@ Here are some ideas to get you started: --!>
 
 - 🔭 I’m currently working on translations, bots and my private projects<br/>
 
-- 💬 Ask me about game servers or making translation for your project/software<br/>
+- 💬 Ask me about Python programming!<br/>
 
 - 📫 How to reach me: deiryn@protonmail.com (I read it from time to time)<br/>
 
-- ⚡ Fun fact: **According to a recent survey, in the UK in 2015, Python overtook French to be the most popular language taught in primary schools. Out of 10, 6 parents preferred their children to learn Python over French.**
+- ⚡ Fun fact: I tend to think my project through a few times before actually starting to make them, sometimes that leads to me dropping the project
