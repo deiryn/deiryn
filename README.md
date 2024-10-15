@@ -6,10 +6,10 @@
 <!--
 Here are some ideas to get you started: --!>
 
-- 🔭 I’m currently working on translations, bots and my private projects<br/>
+- 🔭 I’m currently working on getting a job in IT<br/>
 
-- 💬 Ask me about Python programming!<br/>
+- 💬 Ask me about snakes!<br/>
 
-- 📫 How to reach me: deiryn@protonmail.com (I read it from time to time)<br/>
+- 📫 How to reach me: deiryn@protonmail.com (I read it once a few months)<br/>
 
-- ⚡ Fun fact: I tend to think my project through a few times before actually starting to make them, sometimes that leads to me dropping the project
+- ⚡ Fun fact: <FunFacts.Snakes:InsertRandomFact()>
