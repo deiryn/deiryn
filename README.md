@@ -12,4 +12,4 @@ Here are some ideas to get you started: --!>
 
 - 📫 How to reach me: deiryn@protonmail.com (I read it once a few months)<br/>
 
-- ⚡ Fun fact: <FunFacts.Snakes:InsertRandomFact()>
+- ⚡ Fun fact: FunFacts.Snakes:InsertRandomFact()
